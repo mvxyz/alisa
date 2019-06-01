@@ -26,6 +26,7 @@ var AccountOff = function AccountOff(props) {
   );
 };
 // Комментарий расширенный
+// Еще один комментарий
 AccountOff = (0, _pure2.default)(AccountOff);
 AccountOff.muiName = 'SvgIcon';
 
