@@ -29,5 +29,6 @@ var AccountOff = function AccountOff(props) {
 // Еще один комментарий
 AccountOff = (0, _pure2.default)(AccountOff);
 AccountOff.muiName = 'SvgIcon';
+// Замечание в AccountOff.js
 
 exports.default = AccountOff;
